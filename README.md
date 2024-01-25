@@ -1,4 +1,8 @@
-### <div align="center">Привет, меня зовут Кирилл✋</div>  
+### 
+<div id='header' align="center">
+  <img src='https://media.giphy.com/media/3o6gDYSYjPs9ysOzu0/giphy.gif' width='100'>
+  Привет, меня зовут Кирилл✋
+</div>  
   
 
 - 🔭Сейчас я работаю над [этим проектом](https://github.com/Kirill-Shestakov/mesto-project-ff)  
