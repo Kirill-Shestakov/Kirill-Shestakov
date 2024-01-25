@@ -43,7 +43,7 @@
 </div> 
 <div align="center">
 <a href="https://t.me/Kirill_Shestakoff" target="_blank">
-<img src="https://drive.usercontent.google.com/download?id=1z-7yvbgXtu8giIlNxNwt2WJx6UbzTy8p&authuser=0" width="40" height="40" alt="telegram group" />
+<img src="https://docs.google.com/uc?id=1z-7yvbgXtu8giIlNxNwt2WJx6UbzTy8p" width="40" height="40" alt="telegram group" />
 </a>  
 </div>  
   
