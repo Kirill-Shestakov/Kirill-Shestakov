@@ -1,4 +1,4 @@
-### <div align="center">Привет, меня зовут Кирилл и я начинающим frontend developer</div>  
+### <div align="center">Привет, меня зовут Кирилл✋</div>  
   
 
 - 🔭Сейчас я работаю над [этим проектом](https://github.com/Kirill-Shestakov/mesto-project-ff)  
@@ -35,10 +35,15 @@
 <br/>  
 
 
-## Связаться со мной можно  
+## Соцсети  
 <div align="center">
 <a href="https://github.com/Kirill-Shestakov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div> 
+<div align="center">
+<a href="https://t.me/Kirill_Shestakoff" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>  
 </div>  
   
