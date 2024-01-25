@@ -1,30 +1,43 @@
-### 
 <div id='header' align="center">
   <img src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif' width='100'>
-  <h1>Привет, меня зовут Кирилл✋</h1>
-  <a href='https://t.me/Kirill_Shestakoff'>
+</div>
+<div id='badges' align="center">
+  <a href='https://t.me/Kirill_Shestakoff' target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue">
   </a>
-  <a href='https://github.com/Kirill-Shestakov'>
+  <a href='https://github.com/Kirill-Shestakov' target="_blank">
       <img alt="Static Badge" src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black">
   </a>
-
-
-
-
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Kirill-Shestakov&&style=flat-square" align="center" />
+  </div>
+  <h1>
+    Привет, меня зовут Кирилл
+    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJndmVjZGtqeGg0cTFpMWo3NmwwdGh2dm5xeDAwNDJya2Qzb2U1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif' width='25'>
+  </h1>
 </div>  
 
----
+<br>
 
 - 🔭Сейчас я работаю над [этим проектом](https://github.com/Kirill-Shestakov/mesto-project-ff)  
   
 
-- 🌱 Я изучаю JavaScript  
+- 🌱 Активно изучаю JavaScript
+
+- 📧 Связаться со мной можно, через: <a href='mailto:kirill.shestakov.03@gmail.com' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/mail-white?style=plastic&logo=gmail&logoColor=red">
+</a> <a href='https://t.me/Kirill_Shestakoff' target='_blank'><img alt="Static Badge" src="https://img.shields.io/badge/telegram-white?style=plastic&logo=telegram&logoColor=blue">
+</a>
+
+
+
+
+
+
   
 
 <br/>  
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" alt="Typing SVG" /></a>
+### Я владею:
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -34,27 +47,3 @@
   
 ---
   
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=%D0%A1%D0%BE%D1%86%D1%81%D0%B5%D1%82%D0%B8" alt="Typing SVG" /></a>
-<div>
-<a href="https://github.com/Kirill-Shestakov" target="_blank">
-<img src="https://i.imgur.com/qPuVGWQ.png" width="40" height="40" alt="github" /></a>
-</a>  
-<a href="https://t.me/Kirill_Shestakoff" target="_blank">
-<img src="https://i.imgur.com/FvtXpTI.png" width="40" height="40" alt="telegram" /></a>
-</a>  
-</div>
-  
----
-
-#### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" alt="Typing SVG" /></a>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kirill-Shestakov&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
-
----
- 
-
-<div>
-<img src="https://komarev.com/ghpvc/?username=Kirill-Shestakov&&style=flat-square" align="center" />
-</div>  
