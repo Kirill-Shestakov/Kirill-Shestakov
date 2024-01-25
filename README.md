@@ -19,13 +19,13 @@
 
 <br>
 
-- 🔭Сейчас я работаю над [этим проектом](https://github.com/Kirill-Shestakov/mesto-project-ff)  
+- 🔭Сейчас я работаю над <a href='https://github.com/Kirill-Shestakov/mesto-project-ff' target="_blank">этим проектом</a>
   
 
 - 🌱 Активно изучаю JavaScript
 
 - 📧 Связаться со мной можно, через: <a href='mailto:kirill.shestakov.03@gmail.com' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/mail-white?style=plastic&logo=gmail&logoColor=red">
-</a> <a href='https://t.me/Kirill_Shestakoff' target='_blank'><img alt="Static Badge" src="https://img.shields.io/badge/telegram-white?style=plastic&logo=telegram&logoColor=blue">
+</a> <a href='https://t.me/Kirill_Shestakoff' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-white?style=plastic&logo=telegram&logoColor=blue">
 </a>
 
 
