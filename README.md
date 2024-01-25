@@ -2,8 +2,13 @@
 <div id='header' align="center">
   <img src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif' width='100'>
   <h1>Привет, меня зовут Кирилл✋</h1>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black&link=https%3A%2F%2Fgithub.com%2FKirill-Shestakov">
+  <a href='https://t.me/Kirill_Shestakoff'>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue">
+  </a>
+  <a href='https://github.com/Kirill-Shestakov'>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+
 
 
 
