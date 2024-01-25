@@ -38,12 +38,12 @@
 ## Соцсети  
 <div align="left">
 <a href="https://github.com/Kirill-Shestakov" target="_blank">
-<img src="https://i.imgur.com/qPuVGWQ.png" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/qPuVGWQ.png" width="40" height="40" alt="github" /></a>
 </a>  
 </div> 
-<div align="center">
+<div align="left">
 <a href="https://t.me/Kirill_Shestakoff" target="_blank">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/hVYD9JN/Sprite-0003.png" alt="Sprite-0003" border="0"></a>
+<img src="https://i.imgur.com/FvtXpTI.png" width="40" height="40" alt="telegram" /></a>
 </a>  
 </div>  
   
