@@ -10,7 +10,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Технологии
 <table><tr><td valign="top" width="33%">
 
 
@@ -35,7 +35,7 @@
 <br/>  
 
 
-## Connect with me  
+## Связаться со мной можно  
 <div align="center">
 <a href="https://github.com/Kirill-Shestakov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -52,7 +52,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
@@ -70,6 +69,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
